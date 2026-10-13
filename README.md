@@ -1,5 +1,7 @@
 ## Hi there 
 
+# 1
+
 Senior Software Engineer with 8+ years of experience building high-performance web applications. Expert in JavaScript,
 
 TypeScript, Vue.js, and GraphQL. Passionate about
@@ -7,7 +9,7 @@ TypeScript, Vue.js, and GraphQL. Passionate about
 
 building high-quality products, enhancing DX, and guiding teams toward technical excellence.
 
-
+# 2
 
 ## Stuff that I do:
 
@@ -17,7 +19,7 @@ building high-quality products, enhancing DX, and guiding teams toward technical
 - 🎙️ I host [Untyped](https://untyped.fm) and [A Point of Vue](https://www.youtube.com/@povue/) podcast in Arabic.
 - 🗓️ Organizer at [EgyptJS Meetup](https://www.meetup.com/egyptjs/).
 
-
+# 3
 ## Socials:
 
 - **🐤 Twitter:** [@logaretm](https://twitter.com/logaretm)
